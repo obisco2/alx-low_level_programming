@@ -1,7 +1,28 @@
-#!/bin/bash
 #include <stdio.h>
-int main() {
-   // printf() displays the string inside quotation
-   printf("Programming is like building a multilingual puzzle");
-   return 0;
+
+
+
+/**
+
+* main - print the string in the put function 
+
+* 
+
+* description: using the main function 
+
+* this program prints "Programming is like building a multilingual puzzle"
+
+* Return: 0
+
+*/
+
+int main(void)
+
+{
+
+   printf("\"Programming is like building a multilingual puzzle");
+
+   return (0);
+
 }
+
