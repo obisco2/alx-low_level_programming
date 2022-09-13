@@ -4,6 +4,7 @@
 *
 * Description:  A column of asterisks on the left side,
 * with beginning and ending almost-blank lines.
+* return 0
 */
 int main(void)
 {
